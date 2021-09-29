@@ -9,3 +9,9 @@
 - 😄 Pronouns: She/Her
 - ✨ Fun fact: I adore cats!
 
+
+## <br/><br/><br/><br/>📊 Github Records:
+<div align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Tayma-Kazmouz&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayma-Kazmouz&theme=buefy&layout=compact&count_private=true" />
+</div>
