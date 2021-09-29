@@ -1,4 +1,6 @@
-![v872-techi-01](https://user-images.githubusercontent.com/80001459/135302102-7f165e34-bdaf-4bd8-8d71-e5af7111f359.jpg)
+ <div align= "center">
+ <img height= "350" width= "350"  src="https://user-images.githubusercontent.com/80001459/135302102-7f165e34-bdaf-4bd8-8d71-e5af7111f359.jpg" />
+  </div>
 
 
 - 🎓 I’m a senior completing my bachelor degree in Software Engineering at Bahcesehir University.
@@ -10,7 +12,7 @@
 - ✨ Fun fact: I adore cats!
 
 
-## <br/><br/><br/><br/>📊 Github Records:
+## 📊 Github Records:
 <div align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Tayma-Kazmouz&show_icons=true&theme=buefy&hide_border=false&border_color=#FFF" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayma-Kazmouz&theme=buefy&layout=compact&count_private=true" />
