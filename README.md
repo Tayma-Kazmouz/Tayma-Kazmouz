@@ -1,4 +1,3 @@
-### Hello there everyone! 👋
 ![v872-techi-01](https://user-images.githubusercontent.com/80001459/135302102-7f165e34-bdaf-4bd8-8d71-e5af7111f359.jpg)
 
 
